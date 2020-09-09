@@ -2,7 +2,7 @@
   "name": "4for-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage" :"https://FadyAttia11.github.io/4for-v2",
+  "homepage" :"http://FadyAttia11.github.io/4for-v2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
